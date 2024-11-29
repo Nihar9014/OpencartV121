@@ -1,0 +1,63 @@
+09:47:51.494 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+09:48:01.847 [1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed...
+11:53:58.999 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+11:57:08.224 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+11:57:29.560 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+13:08:14.997 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+13:08:30.654 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+13:08:46.470 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+13:12:25.108 [16] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+13:12:27.449 [17] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+13:12:30.794 [18] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+15:06:51.110 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+19:23:43.937 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\master.xml"
+19:23:44.441 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\master.xml
+
+19:23:54.279 [1] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest*****
+17:11:34.781 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:11:35.194 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:13:08.200 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:13:08.596 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:13:24.589 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:13:24.969 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:14:15.976 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:14:16.326 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:14:42.268 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:14:42.647 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:15:08.700 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:15:09.090 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:21:59.113 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:21:59.485 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:22:18.004 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml"
+17:22:18.388 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\grouping.xml
+
+17:32:41.933 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\master.xml"
+17:32:42.338 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\master.xml
+
+17:32:48.016 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+17:40:58.141 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\test-output\testng-failed.xml"
+17:40:58.505 [1] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\seleniumwebdriver\OpencartV121\test-output\testng-failed.xml
+
+17:41:01.438 [1] INFO  testCases.TC002_LoginTest - *****Starting TC_002_LoginTest*****
+15:25:47.311 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\master.xml"
+15:25:56.387 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+16:13:10.074 [1] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\seleniumwebdriver\OpencartV121\master.xml"
+16:13:16.111 [1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
